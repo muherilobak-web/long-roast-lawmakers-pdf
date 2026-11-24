@@ -1,0 +1,1 @@
+{"description":"A single-sentence satirical roast about lawmakers who wrote a bill regulating a document format while their own bill circulates as a file nobody in the building can open, let alone convert to PDF.","license":"MIT","main":"main.ts","name":"long-roast-lawmakers-pdf","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
